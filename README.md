@@ -9,6 +9,13 @@ Una aplicación web moderna y elegante construida con **Python** y **Flask**, di
 
 ---
 
+## Evidencias
+
+- **Link con las evidencias:** [Drive con evidencias](https://drive.google.com/drive/u/0/folders/1d-qSOM58gUnwXvMee3rI33-0WQnL5q4T)
+- **Link del despliegue:** [Aplicacion desplegada con render](https://mi-proyecto-python-santiago-guzman-2.onrender.com)
+---
+---
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Backend**: Python 3, Flask, Gunicorn
