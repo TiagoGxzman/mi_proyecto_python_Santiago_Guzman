@@ -291,4 +291,4 @@ Abre tu navegador en:
 ---
 
 ### 👤 Autor
-**Feibert Alirio Guzmán Pérez**
+**Feibert Alirio Guzmán Pérez, Santiago Guzman Garcia**
